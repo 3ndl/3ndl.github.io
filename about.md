@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-![神奈川衝浪裏](http://wp.blkstone.me/wp-content/uploads/2018/05/138-140FP91001-1024x640.jpg)
+![神奈川衝浪裏](/assets/images/move/x.jpg)
 
 *** 夏が終わった**
 
