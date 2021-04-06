@@ -1,5 +1,6 @@
 ---
 title: SUSCTF 2nd Web Write Up
+key: 66237fc39ecb12f9a560eac532a07492
 tags:
   - Writeup
   - CTF

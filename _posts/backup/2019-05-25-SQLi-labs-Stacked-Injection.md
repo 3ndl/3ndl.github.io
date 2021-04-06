@@ -1,5 +1,6 @@
 ---
 title: SQLi-labs Stacked Injection
+key: 53bd7dc1076659cb95dbde3171d6a4ea
 tags:
   - Writeup
   - CTF

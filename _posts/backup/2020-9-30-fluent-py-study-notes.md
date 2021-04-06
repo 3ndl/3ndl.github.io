@@ -1,5 +1,6 @@
 ---
 title: Fluent Python Study Notes
+key: 693d644379cc7005db33ba38b853d1c6
 tags:
   - Notes
   - Python

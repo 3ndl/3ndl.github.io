@@ -1,5 +1,6 @@
 ---
 title: Nim Manual Study Notes
+key: cfdc66e3edd21bb4f06a7684deb0db7f
 tags:
   - Nim
   - Notes

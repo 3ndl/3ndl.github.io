@@ -1,5 +1,6 @@
 ---
 title: Java Security Study Notes (Basic)
+key: 2296dd2c27bad5e4cd9c1f6392cb0787
 tags:
   - Java
   - Summary

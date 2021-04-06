@@ -1,5 +1,6 @@
 ---
 title: SQLi-labs Advanced Injection
+key: 492c8d7991868731fbfb956661e180c0
 author: 3ND
 tags:
   - SQLi

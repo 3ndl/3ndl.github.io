@@ -1,5 +1,6 @@
 ---
 title: 第五空间网络安全大赛Web Writeup
+key: 2e525b6c72aa0da2cbcb0db090ac55b3
 tags:
   - SSRF
   - SQLi

@@ -1,5 +1,6 @@
 ---
 title: Classical Code Hill Cipher
+key: 27261bf36aa0d4255825645990c7f2d3
 tags:
   - Course
   - Crypto

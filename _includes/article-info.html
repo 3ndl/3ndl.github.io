@@ -73,8 +73,6 @@
               {%- assign _locale_views = __return -%}
               <li><i class="far fa-eye"></i> <span class="js-pageview" data-page-key="{{ include.article.key }}">0</span> {{ _locale_views }}</li>
             {%- endif -%}
-            <script src="https://cdn.bootcdn.net/ajax/libs/blueimp-md5/2.18.0/js/md5.js"></script>
-            <script>document.getElementsByClassName('js-pageview')[0].setAttribute("data-page-key", md5("{{ include.article.title }}"));</script>
           {%- endif -%}
         </ul>
       {%- endif -%}

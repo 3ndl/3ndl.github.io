@@ -1,5 +1,6 @@
 ---
 title: Oracle 操作语句及注入总结
+key: 8a0d3a7e170e87b582aa5eea983348d8
 tags:
   - Oracle
   - SQLi

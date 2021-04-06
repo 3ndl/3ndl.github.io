@@ -1,5 +1,6 @@
 ---
 title: Do Evil Things With Gopher://
+key: 5d7c644637049f653137bb065b08f1d3
 tags:
   - Gopher
   - Summary

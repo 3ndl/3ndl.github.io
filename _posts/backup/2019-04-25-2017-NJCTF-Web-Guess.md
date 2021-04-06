@@ -1,4 +1,5 @@
 title: 攻防世界 2017 NJCTF Web Guess
+key: 9a75eef37ffd1f758d96d8b24f86b9a5
 author: 3ND
 tags:
   - Writeup

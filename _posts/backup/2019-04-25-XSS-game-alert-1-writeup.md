@@ -1,5 +1,6 @@
 ---
 title: XSS game alert(1) writeup
+key: 2a0e261d739cfd49e0626b0a10fed40b
 tags:
   - XSS
   - Writeup

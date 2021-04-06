@@ -1,5 +1,6 @@
 ---
 title: XML外部实体注入漏洞与利用学习
+key: 2504487ca0100e9d02cd8d91e951f121
 tags:
   - XXE
   - Writeup

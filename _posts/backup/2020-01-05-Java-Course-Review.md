@@ -1,5 +1,6 @@
 ---
 title: Java Course Review Note
+key: 38d960104c8fa053d953b95f78ffea5d
 tags:
   - Course
   - Java

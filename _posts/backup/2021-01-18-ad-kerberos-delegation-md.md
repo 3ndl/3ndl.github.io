@@ -1,5 +1,6 @@
 ---
 title: 域渗透中的 Kerberos 委派攻击
+key: a725e8b598bb777b4ca52d43cf81a35b
 tags:
   - AD Pentest
   - Kerberos

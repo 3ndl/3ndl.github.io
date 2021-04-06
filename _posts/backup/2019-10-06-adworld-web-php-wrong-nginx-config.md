@@ -1,5 +1,6 @@
 ---
 title: 攻防世界 Web_php_wrong_nginx_config
+key: a7c0cbdfd53e8d86e762a2663a763a60
 tags:
   - Writeup
   - CTF

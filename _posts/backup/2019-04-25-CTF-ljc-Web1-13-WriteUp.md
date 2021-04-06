@@ -1,5 +1,6 @@
 ---
 title: CTF 论剑场 Web1-13 WriteUp
+key: 9cbae9a0229a2fa7c7ab7564046e656d
 tags:
   - Writeup
   - CTF

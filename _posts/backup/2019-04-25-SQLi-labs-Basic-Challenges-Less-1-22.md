@@ -1,5 +1,6 @@
 ---
 title: SQLi-labs Basic Challenges
+key: 0e2292a7dabd5050f62b83fa46179077
 tags:
   - SQLi
   - Writeup

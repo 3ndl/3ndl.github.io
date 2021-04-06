@@ -1,5 +1,6 @@
 ---
 title: 2019 全国大学生软件测试大赛预选赛
+key: 44def6323c02cd482e5d1f7cb27854f7
 tags:
   - Writeup
   - CTF

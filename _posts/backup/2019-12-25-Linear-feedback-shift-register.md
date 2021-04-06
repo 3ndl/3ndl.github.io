@@ -1,5 +1,6 @@
 ---
 title: Linear Feedback Shift Register
+key: 2ed622c9e1a05d5337c73f1cfe24d547
 tags:
   - Crypto
   - Course

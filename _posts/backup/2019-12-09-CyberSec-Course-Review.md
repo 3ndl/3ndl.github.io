@@ -1,5 +1,6 @@
 ---
 title: CyberSec Course Review Memo
+key: d9d26a78d85e9c7d74578bc93f9d5ab2
 tags:
   - Course
 date: 2019-12-09 08:22:41

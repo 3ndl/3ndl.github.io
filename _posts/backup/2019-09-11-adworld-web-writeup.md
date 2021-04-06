@@ -1,5 +1,6 @@
 ---
 title: 攻防世界 ADWorld Web 部分题解（1）
+key: f76a84602cfe669da973b6aa8f6d4226
 tags:
   - Writeup
   - CTF

@@ -1,5 +1,6 @@
 ---
 title: sqlmap CSRF-token 绕过姿势
+key: 52c47e05319207ba9fd6b607350b4a67
 tags:
   - Summary
   - SQLi

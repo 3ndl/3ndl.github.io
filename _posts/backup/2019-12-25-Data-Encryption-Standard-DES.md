@@ -1,5 +1,6 @@
 ---
 title: Data Encryption Standard - DES
+key: 2e0ad46ca812bb7c3989242418e1bcfc
 tags:
   - Course
   - Crypto

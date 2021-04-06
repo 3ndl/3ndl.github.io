@@ -1,5 +1,6 @@
 ---
 title: Cryptography Course Review Note
+key: 458bac8d44f32381c5d18d2a944349fb
 tags:
   - Course
   - Crypto

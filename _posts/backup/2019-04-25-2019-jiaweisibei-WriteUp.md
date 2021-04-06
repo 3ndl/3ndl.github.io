@@ -1,5 +1,6 @@
 ---
 title: 2019 “嘉韦思杯”上海市网络安全邀请赛 WriteUp
+key: da5a9ad71ea1f227d46792eb9fe32747
 tags:
   - Writeup
   - CTF

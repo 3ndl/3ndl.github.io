@@ -1,5 +1,6 @@
 ---
 title: 2020 网鼎杯青龙组部分题解
+key: 23fb068af9aa7d2f5473793c514361e3
 tags:
   - Writeup
   - CTF

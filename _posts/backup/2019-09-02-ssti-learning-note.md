@@ -1,5 +1,6 @@
 ---
 title: 服务端模板注入攻击(SSTI)学习
+key: 47cb7e7c7ba02967f978af6e1bea758b
 tags:
   - SSTI
   - Summary

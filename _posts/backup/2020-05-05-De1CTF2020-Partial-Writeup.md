@@ -1,5 +1,6 @@
 ---
 title: De1CTF 2020 Partial Writeup
+key: 43d6a645e0728590bf541b6f81524107
 tags:
   - Writeup
   - CTF

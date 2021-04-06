@@ -1,5 +1,6 @@
 ---
 title: 2019 西湖论剑 Web 复现
+key: 5ba2d645a56fdc3b38426d61461ed05e
   - Writeup
   - CTF
 date: 2019-04-25 21:02:00
