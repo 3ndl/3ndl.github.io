@@ -1,0 +1,15 @@
+/* start custom scss snippet */
+.article__content table {
+    font-size: 0.85rem;
+}
+.has-aside .col-aside > aside.fixed {
+    height: 100%;
+    overflow: scroll;
+}
+.page__main .col-aside > aside {
+    width: 100%;
+}
+a {
+    font-weight: 600;
+}
+/* end custom scss snippet */
