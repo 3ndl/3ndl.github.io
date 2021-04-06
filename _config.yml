@@ -223,7 +223,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - liquid-md5
 
-gems:
-  - liquid-md5
