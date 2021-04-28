@@ -1,0 +1,60 @@
+---
+layout: page
+type: encrypted
+---
+
+{%- include snippets/assign.html
+    target = site.data.variables.default.page.sharing
+    source0=layout.sharing source1=page.sharing -%}
+{%- assign _sharing = __return -%}
+
+<div class="layout--article">
+    {%- include article/top/custom.html -%}
+    {%- include article/top/encrypted.html -%}
+  
+    
+
+    <div class="article__content" itemprop="articleBody" id='c0nt'>
+
+        <div class="container">
+            <div class="container__item">
+                <form class="form" id="encrypt_form" action="#" method="post">
+                    <input type="password" name="password" id='encrypt_password' class="form__field" placeholder="Type the password" autofocus />
+                    <button type="submit" class="btn btn--primary btn--inside">Unlock</button>
+                </form>
+            </div>
+        </div>
+    
+    </div>
+  
+    {%- if _sharing -%}
+      <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
+    {%- endif -%}
+  
+    <div class="d-print-none">
+      {%- include article-footer.html -%}
+      {%- include article-section-navigator.html -%}
+    </div>
+  
+  </div>
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js"></script>
+  <script>
+    document.getElementById('encrypt_form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      var passphrase = document.getElementById('encrypt_password').value,
+          encryptedMsg = '{{ page.encrypted }}',
+          encryptedHMAC = encryptedMsg.substring(0, 64),
+          encryptedHTML = encryptedMsg.substring(64),
+          decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
+
+      if (decryptedHMAC !== encryptedHMAC) {
+        alert('Bad passphrase!');
+        return;
+      }
+
+      var plainHTML = CryptoJS.AES.decrypt(encryptedHTML, passphrase).toString(CryptoJS.enc.Utf8);
+      document.getElementById('c0nt').innerHTML = plainHTML;
+    });
+  </script>
+</div>

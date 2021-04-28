@@ -10,10 +10,22 @@
     width: 100%;
 }
 a {
-    font-weight: 600;
+    font-weight: 500;
 }
 code {
     font-size: .8rem;
     line-height: 1.5;
+}
+h1, h2, h3, h4, h5, h6, strong {
+    font-weight: 600;
+}
+.layout--articles {
+    margin-top: 1.8rem;
+}
+.header__brand > a {
+    font-weight: 500;
+}
+.navigation__item--active::after {
+    border-bottom-width: 2px;
 }
 /* end custom scss snippet */
